@@ -1,0 +1,15 @@
+# PyTorch for building and training the neural network
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# Data processing libraries
+pandas==2.1.1
+numpy==1.25.2
+scikit-learn==1.3.0
+
+# Imbalanced learning technique
+imblearn==0.11.0
+
+# For optimizer scheduling
+matplotlib==3.7.3
